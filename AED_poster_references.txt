@@ -1,0 +1,5 @@
+1.	Feng Y, Quon RJ, Jobst BC, Casey MA. Evoked responses to note onsets and phrase boundaries in Mozart’s K448. Sci Rep. 2022;12(1):9632. doi:10.1038/s41598-022-13710-3
+2.	Quon RJ, Casey MA, Camp EJ, et al. Musical components important for the Mozart K448 effect in epilepsy. Sci Rep. 2021;11(1):16490. doi:10.1038/s41598-021-95922-7
+3.	Quon RJ, Meisenhelter S, Camp EJ, et al. AiED: Artificial intelligence for the detection of intracranial interictal epileptiform discharges. Clinical Neurophysiology. 2022;133:1-8. doi:10.1016/j.clinph.2021.09.018
+4.	Ding R, Tang H, Liu Y, et al. Therapeutic effect of tempo in Mozart’s “Sonata for two pianos” (K. 448) in patients with epilepsy: An electroencephalographic study. Epilepsy & Behavior. 2023;145:109323. doi:10.1016/j.yebeh.2023.109323
+5.	Quon RJ, Leslie GA, Camp EJ, et al. 40‐Hz auditory stimulation for intracranial interictal activity: A pilot study. Acta Neurol Scand. 2021;144(2):192-201. doi:10.1111/ane.13437
